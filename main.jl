@@ -1,3 +1,5 @@
+include("testMain.jl")
+
 function plot(x, y; kwargs...)
   println(x)
   println(y)
